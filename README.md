@@ -2,7 +2,8 @@
 ### Turning complex medical reports into simple insights
 
 ---
-
+🚀 Live App: https://your-app-link.streamlit.app
+---
 ## 📌 Overview  
 MediScan AI is an AI-powered application that analyzes medical reports (such as blood test reports) and converts them into simple, easy-to-understand explanations.
 
